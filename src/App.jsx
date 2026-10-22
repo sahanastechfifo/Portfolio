@@ -300,7 +300,7 @@ function App() {
 
       {/* Footer */}
       <footer>
-        <p>© 2026 Sahanas S | Full Stack Developer</p>
+        <p>© 2026 Sahanas S | Full Stack Developer.</p>
       </footer>
 
     </div>
